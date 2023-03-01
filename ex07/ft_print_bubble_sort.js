@@ -18,5 +18,5 @@ function bubbleSort(arr) {
     console.log(arr);
   }
   
-  let myArray = [un, deux, trois, quatre, cinq];
-  bubbleSort(myArray)
+  let tab = ["un", "deux", "trois", "quatre", "cinq"];
+  bubbleSort(tab)
