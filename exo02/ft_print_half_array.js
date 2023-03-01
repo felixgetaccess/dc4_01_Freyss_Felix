@@ -7,6 +7,3 @@ function afficherCasesPaires(tableau) {
       console.log(tableau[i]);
     }
   }
-
-  const monTableau = ["a", "b", "c", "d", "e", "f", "g"];
-afficherCasesPaires(monTableau);
