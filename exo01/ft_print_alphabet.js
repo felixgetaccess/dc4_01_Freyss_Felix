@@ -6,4 +6,3 @@ function afficherAlpha(str) {
     const alphaMaj = alphaMin.map(x => String.fromCharCode(x.charCodeAt() - 32));
     console.log(alphaMaj);
   }
-  afficherAlpha("abcdefghijklmnopqrstuvwxyz")
