@@ -9,5 +9,3 @@ function ajouterUn(tableau) {
     console.log(nouveauTableau);
   }
 
-  const monTableau = [1, 2, 3, 4, 5];
-ajouterUn(monTableau);
